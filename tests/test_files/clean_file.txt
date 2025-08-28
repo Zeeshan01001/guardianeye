@@ -1,0 +1,3 @@
+This is a clean test file for GuardianEye scanner.
+It contains no malicious content.
+Just some regular text for testing purposes. 

@@ -1,0 +1,9 @@
+---
+exclude_dirs:
+  - tests
+  - build
+  - dist
+
+skips:
+  - B101  # skip assert statements
+  - B104  # skip hardcoded bind 
