@@ -1,8 +1,8 @@
-# ⚔️ GuardianEye
+# GuardianEye
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/zeeshan01001/GuardianEye) [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+Advanced Malware Detection System powered by intelligent signature-based scanning, machine learning capabilities, and VirusTotal API integration. GuardianEye is a sophisticated security tool that protects your system by detecting potentially malicious files through advanced scanning techniques.
 
-Advanced Malware Detection System powered by intelligent signature-based scanning, machine learning capabilities, and VirusTotal API integration.
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/Zeeshan01001/guardianeye) [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ## 🌟 Overview
 
